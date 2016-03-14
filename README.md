@@ -1,5 +1,5 @@
 # simple-solver-GC
-Simple solver for non-looping games
+*Simple solver for non-looping games*
 
 **User Input:**
 To input the three given functions and the initial position,
