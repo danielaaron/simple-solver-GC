@@ -8,9 +8,13 @@ this file, containing the four given user inputs. Be sure to
 follow the data types below. 
 
 **Data Types:** (f: input --> output)
+
 initial_position: string
+
 primitive(pos): string --> "win", "loss", "tie"
+
 gen_moves(pos): string --> list
+
 do_moves(pos, move): string --> string 
 
 **Notes:**
