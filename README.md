@@ -1,7 +1,7 @@
 # simple-solver-GC
 Simple solver for non-looping games
 
-**User Input: **
+**User Input:**
 To input the three given functions and the initial position,
 users should write a userfile.py, in the same directory as
 this file, containing the four given user inputs. Be sure to
